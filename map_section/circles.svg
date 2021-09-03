@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30">
+  <g>
+    <circle class="a" cx="15" cy="15" r="10"/>
+    <circle class="b" cx="15" cy="15" r="14"/>
+  </g>
+</svg>
