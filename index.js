@@ -65,7 +65,7 @@ function onLoad() {
     const about = document.querySelector("main #about .svg_holder.wave");
 
 
-    const mapTop = `<img src="/map_section/just_top.png" alt="">`
+    const mapTop = `<img src="map_section/just_top.png" alt="">`
     const mapImg = `<img id="mappng" src="map_section/just_map.png" alt="">`;
     const mapRoute = `<img id="route" src="map_section/route.svg" alt="">`;
     const mapPattern = `<img id="pattern" src="map_section/pattern.png" alt="">`;
