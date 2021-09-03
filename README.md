@@ -9,3 +9,5 @@ We used:
 **Swiper API**
 
 **Adobe Illustrator**
+
+Thanks for reading!
